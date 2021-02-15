@@ -1,5 +1,5 @@
 const pageload = function () {
-    let element = document.querySelector('#content');
+    let element = document.querySelector('#container');
 
     let childElement = document.createElement('h1');
     childElement.innerText = 'Restaurant Homepage';

@@ -1,6 +1,9 @@
-#content {
+#container {
     text-align: center;
+}
 
+.navtabs {
+    display: block;
 }
 
 h1 {
