@@ -1,3 +1,3 @@
-let element = document.querySelector('#content');
+import {pageload} from './intlPageLoad';
 
-element.innerHTML += 'works';
+pageload();

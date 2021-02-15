@@ -1,0 +1,18 @@
+#content {
+    text-align: center;
+
+}
+
+h1 {
+    color: teal;
+}
+
+#about {
+    color: sienna;
+}
+
+#disclaimer {
+    color: red;
+    font-style: italic;
+    font-size: smaller;
+}
